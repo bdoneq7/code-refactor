@@ -1,4 +1,4 @@
-<strong>WHAT I DID</strong>
+<strong>DESCRIPTION OF REFACTOR UPDATES</strong>
 
 Refactored the html and css code for the Horiseon website to make it accessible. The structure of the semantic HTML elements was updated to follow a logical structure indepedent
 of styling and positioning with comments added. The images were giving alt attributes and the heading attributes were organized into sequential order. The title element was 
@@ -24,3 +24,9 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+<strong>HORISEON WEBSITE SCREENSHOT:</strong>
+
+
+<strong>LINK TO DEPLOYED APPLICATION:</strong>
+https://bdoneq7.github.io/code-refactor/
