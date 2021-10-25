@@ -26,7 +26,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 <strong>HORISEON WEBSITE SCREENSHOT:</strong>
-![Alt Horiseon Screenshot](/bdoneq7/code-factor/images/screenshot.png?raw=true "Horiseon Screenshot")
+![Alt Horiseon Screenshot](https://github.com/bdoneq7/code-refactor/blob/main/assets/images/screenshot.PNG?raw=true "Horiseon Screenshot")
 
-<strong>LINK TO DEPLOYED APPLICATION:</strong>
+<strong>LINK TO DEPLOYED HORISEON APPLICATION:</strong>
 https://bdoneq7.github.io/code-refactor/
