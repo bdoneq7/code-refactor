@@ -20,7 +20,7 @@ header {
 header h1 {
     display: inline-block;
     font-size: 48px;
-    color: #d9dcd6;
+    color: #ffffff;
     
 }
 
@@ -198,6 +198,10 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
+}
+
+.seo {
+    color: #d9dcd6;
 }
 
 /* footer styles */
